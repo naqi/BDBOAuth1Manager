@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.homepage  = 'https://github.com/bdbergeron/BDBOAuth1Manager'
   s.social_media_url = 'https://twitter.com/bradbergeron'
   s.authors   = { 'Bradley David Bergeron' => 'brad@bradbergeron.com' }
-  s.source    = { :git => 'https://github.com/bdbergeron/BDBOAuth1Manager.git', :tag => s.version.to_s }
+  s.source    = { :git => 'https://github.com/naqi/BDBOAuth1Manager.git', :tag => s.version.to_s }
   s.requires_arc = true
 
   s.ios.deployment_target = '7.0'
